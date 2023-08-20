@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadman Hafij</h1>
 <h3 align="center">Hey there! I'm Sadman Hafij , a passionate Computer Science Engineering student with a knack for all things tech.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/sadman119/Beecrowd-Problem-Solving/assets/141361791/3b56aba8-5102-4d75-8d7c-b0cc1f88a7c6">
+<img align="center" alt="coding" width="400" src="https://github.com/sadman119/Beecrowd-Problem-Solving/assets/141361791/3b56aba8-5102-4d75-8d7c-b0cc1f88a7c6">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadman119" alt="sadman119" /></a> </p>
 
 - 🔭 I’m currently working on [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/868238)
