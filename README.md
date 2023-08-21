@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Sadman
-#### I'm Sadman Hafij , a passionate Computer Science Engineering student with a knack for all things tech.
-![I'm Sadman Hafij , a passionate Computer Science Engineering student with a knack for all things tech.](https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif)
+<h1 align="center">Hi 👋, I'm Sadman Hafij</h1>
+<h3 align="center">Hey there! I'm Sadman Hafij , a passionate Computer Science Engineering student with a knack for all things tech.</h3>
 
 I am currently pursuing my studies in Computer Science Engineering, striving to blend theoretical knowledge with practical application. My academic journey has provided me with a solid foundation in programming languages, algorithms, and software development methodologies.
 
